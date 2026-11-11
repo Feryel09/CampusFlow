@@ -1,3 +1,11 @@
+## Organisation du travail avec Git
+
+- `main` : branche principale contenant les versions stables du projet.
+- `develop` : branche de développement commune à l'équipe.
+- `feature/nom-fonctionnalite` : branche créée pour développer une fonctionnalité.
+
+Les modifications sont intégrées dans `develop` à travers des Pull Requests.
+Les versions validées sont ensuite intégrées dans `main`.
 # CampusFlow
 
 **University Life Management Platform based on Microservices Architecture**
