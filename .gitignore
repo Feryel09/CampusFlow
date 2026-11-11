@@ -1,0 +1,27 @@
+# Java / Spring Boot
+target/
+*.class
+*.jar
+*.war
+
+# Angular / Node.js
+node_modules/
+dist/
+.angular/
+.npm/
+
+# Environnements et configurations personnelles
+.env
+.env.*
+!.env.example
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Système
+.DS_Store
+Thumbs.db
